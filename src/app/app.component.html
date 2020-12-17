@@ -1,0 +1,12 @@
+<h1>{{title}}</h1>
+<div class="Entrez un nombre">
+  <mat-form-field appearance="fill">
+    <input matInput [(ngModel)]="number">
+  </mat-form-field>
+  </div>
+<div>
+  <button mat-mini-fab color="warn" (click)="onAdd()" >Add</button>
+</div>
+<div>
+  <mat-card>résultat:{{result}}</mat-card>
+</div>
