@@ -14,18 +14,6 @@ Then go to the new directory:
 Run the following command:  
 ```ỳarn install```  
 
-You can open the application with your favorite IDE (i advise InteliJ).
-
-  
-  
-  
-  
-
-
-
-
-
-
 
 ## Development server
 
