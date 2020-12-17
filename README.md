@@ -1,6 +1,31 @@
 # BootifulAdderFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+If you want to look at the usual babbling scroll down till "Development server part.
+
+This front is connected to the bootiful-adder application, see https://github.com/tameII/bootiful-adder  
+
+## Install application
+
+Clone this repository:    
+```$ git clone https://github.com/tameII/bootiful-adder-front.git ```   
+Then go to the new directory:  
+```$ cd bootiful-adder-front```  
+Run the following command:  
+```ỳarn install```  
+
+You can open the application with your favorite IDE (i advise InteliJ).
+
+  
+  
+  
+  
+
+
+
+
+
+
 
 ## Development server
 
